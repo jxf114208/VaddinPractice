@@ -1,7 +1,7 @@
-package com.example.testers.c4_3;
+package com.example.testers.c4.c4_3;
 
 
-import com.example.testers.Tester;
+import com.example.testers.c4.Tester;
 import com.vaadin.ui.Button;
 import com.vaadin.ui.Button.ClickEvent;
 import com.vaadin.ui.UI;

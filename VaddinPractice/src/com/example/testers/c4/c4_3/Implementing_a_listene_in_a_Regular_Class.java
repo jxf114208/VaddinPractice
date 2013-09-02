@@ -1,6 +1,6 @@
-package com.example.testers.c4_3;
+package com.example.testers.c4.c4_3;
 
-import com.example.testers.Tester;
+import com.example.testers.c4.Tester;
 import com.vaadin.ui.UI;
 
 public class Implementing_a_listene_in_a_Regular_Class extends Tester {

@@ -1,6 +1,6 @@
-package com.example.testers.c4_2;
+package com.example.testers.c4.c4_2;
 
-import com.example.testers.Tester;
+import com.example.testers.c4.Tester;
 import com.vaadin.ui.HorizontalLayout;
 import com.vaadin.ui.Label;
 import com.vaadin.ui.Table;

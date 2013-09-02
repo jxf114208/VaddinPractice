@@ -1,6 +1,6 @@
-package com.example.testers.c4_6;
+package com.example.testers.c4.c4_6;
 
-import com.example.testers.Tester;
+import com.example.testers.c4.Tester;
 import com.vaadin.server.Page;
 import com.vaadin.server.ThemeResource;
 import com.vaadin.shared.Position;

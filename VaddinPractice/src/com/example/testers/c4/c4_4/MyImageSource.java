@@ -1,4 +1,4 @@
-package com.example.testers.c4_4;
+package com.example.testers.c4.c4_4;
 
 import java.awt.Color;
 import java.awt.Graphics;

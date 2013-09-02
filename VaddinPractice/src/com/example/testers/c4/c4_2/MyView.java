@@ -1,4 +1,4 @@
-package com.example.testers.c4_2;
+package com.example.testers.c4.c4_2;
 
 import com.vaadin.ui.Button;
 import com.vaadin.ui.CustomComponent;
