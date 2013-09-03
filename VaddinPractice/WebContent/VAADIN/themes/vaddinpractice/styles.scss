@@ -7,3 +7,14 @@
   @include addons;
   @include vaddinpractice;
 }
+
+/* Centering a caption */
+.v-caption-in-middle .v-captiontext {
+    float: none; /* Floating has to be disabled */
+    text-align: center;
+}
+
+/* Right-aligning a caption */
+.v-caption-on-right .v-captiontext {
+    float: right;
+}

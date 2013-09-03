@@ -2,7 +2,7 @@ package com.example.testers.c4.c4_5;
 
 import javax.xml.transform.TransformerException;
 
-import com.example.testers.c4.Tester;
+import com.example.testers.Tester;
 import com.vaadin.server.DefaultErrorHandler;
 import com.vaadin.server.ErrorEvent;
 import com.vaadin.shared.ui.label.ContentMode;

@@ -1,4 +1,4 @@
-package com.example.testers.c4;
+package com.example.testers;
 
 import com.vaadin.ui.UI;
 
